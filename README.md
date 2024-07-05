@@ -2,7 +2,8 @@ Power BI Dashboard
 
 Objective- To find the causes and area of attrition in company by diffrent criteria.
 
-Insights- By this dashboard analysis we find some critical insights (1) The max number of job loss is from life science education background 
+Insights- By this dashboard analysis we find some critical insights 
+(1) The max number of job loss is from life science education background 
 (2)Between the age group of 26-35 max number of employe attrated
 (3)60% of employess those are gone has salary less than 5k
 
